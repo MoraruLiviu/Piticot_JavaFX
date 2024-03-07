@@ -9,7 +9,7 @@ Rules:
   - if a player lands on the skull tile(25), the game ends and the oposing player wins
   - if a player lands on the last tile(80), the game ends and that player wins
 
-![alt text](https://i.imgur.com/bIB6BLf.png)
+![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmR2bXJoYXFjMnZybTg2ZDZjcmFxOWZ1bXRlYWFiNDF0ZDd2cG5zZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gpGttfkkqUHEl2YDZk/giphy.gif)
 
 
 Based on the following tileset rules:
